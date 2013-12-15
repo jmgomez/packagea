@@ -8,5 +8,7 @@ Version 0.2 contains two procs
 one in packagea.nim (``test`` which is the same as ``+``) and one in packagea/test.nim
  (``test2`` which is the same as ``*``). 
 
-Version 0.4 removes packagea/test.nim (through the use of skipDir) but adds a
+Version 0.5 removes packagea/test.nim (through the use of skipDir) but adds a
 ``onlyIn04`` to packagea.nim.
+
+The other versions are irrelevant and are caused by my excessive tagging.
