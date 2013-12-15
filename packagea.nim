@@ -1,0 +1,1 @@
+proc test*(x, y: int): int = x + y
